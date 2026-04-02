@@ -2,7 +2,7 @@
 
 function demo() {
   const demoBlock = document.createElement('div');
-  demoBlock.innerText = 'Demo version of the website.';
+  demoBlock.innerText = 'LEGO ELON.';
   demoBlock.style.cssText = `
   pointer-events: none;
   user-select: none;
